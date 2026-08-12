@@ -1,0 +1,15 @@
+{
+    "Name": "Biomarcadores",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Veronica Henao Isaza"
+    ],
+    "GeneratedBy": [
+        {
+            "Description": "sovaharmony, a harmonization eeg pipeline using the bids standard",
+            "Name": "sovaharmony",
+            "CodeURL": "https://github.com/GRUNECO/eeg-harmonization"
+        }
+    ]
+}
